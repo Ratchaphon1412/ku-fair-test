@@ -9,9 +9,9 @@
       <e-views>
         <e-view option="Day"></e-view>
         <e-view option="Week" startHour="07:00" endHour="15:00"></e-view>
-        <e-view option="WorkWeek" startHour="10:00" endHour="18:00"></e-view>
+        <!-- <e-view option="WorkWeek" startHour="10:00" endHour="18:00"></e-view>
         <e-view option="Month" showWeekend="false"></e-view>
-        <e-view option="Agenda"></e-view>
+        <e-view option="Agenda"></e-view> -->
       </e-views>
       <e-resources>
         <e-resource
