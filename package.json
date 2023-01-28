@@ -8,9 +8,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@syncfusion/ej2-vue-schedule": "^20.4.44",
+    "flowbite": "^1.6.3",
     "pinia": "^2.0.28",
     "troisjs": "^0.3.4",
     "vue": "^3.2.45",
+    "vue-class-component": "^8.0.0-rc.1",
     "vue-router": "^4.1.6"
   },
   "devDependencies": {
